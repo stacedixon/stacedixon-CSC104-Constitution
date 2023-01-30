@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(239, 231, 231);
+}
+
+h1{
+    font-size: 40pt;
+}
+
+#textColor{
+    color: rgb(160, 28, 28);
+}
+
+#textColor2{
+    color: navy;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    font-weight: bold;
+}
+
+#footerBackground{
+    background-color: #D6B1C1;
+}
+
+#footerColor{
+    color: white
+}
